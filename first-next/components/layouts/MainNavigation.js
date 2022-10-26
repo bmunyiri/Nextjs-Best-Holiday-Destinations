@@ -6,7 +6,7 @@ function MainNavigation() {
 
   return (
     <header className={classes.header}>
-      <div className={classes.logo}>React -Best Holiday Destinations</div>
+      <div className={classes.logo}>(Reactjs / Nextjs) - Best Holiday Destinations</div>
       <nav>
         <ul>
           <li>
